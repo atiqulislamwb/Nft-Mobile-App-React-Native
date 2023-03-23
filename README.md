@@ -1,4 +1,6 @@
 # NFT mobile app
 
-[App UI](https://ibb.co/MgPMxWg)
-(https://ibb.co/dMGWK6Y)
+![App Home Page](https://i.ibb.co/QMgTwfC/mobile-app1.png)
+
+
+
